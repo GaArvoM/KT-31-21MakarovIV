@@ -1,0 +1,6 @@
+@KT_31_21MakarovIV_HostAddress = http://localhost:5052
+
+GET {{KT_31_21MakarovIV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
