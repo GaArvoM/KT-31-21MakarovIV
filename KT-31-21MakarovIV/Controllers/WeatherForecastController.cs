@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace KT_31_21MakarovIV.Controllers
 {
+
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
@@ -21,6 +22,7 @@ namespace KT_31_21MakarovIV.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            _logger.LogError("method was called");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -29,5 +31,16 @@ namespace KT_31_21MakarovIV.Controllers
             })
             .ToArray();
         }
+        [HttpPost(Name = "AddNewSummary")]
+        public string[] AddNewSummary(string newSummary)
+        {
+            _logger.LogError("new method was called");
+
+            var list = Summaries.ToList();
+            list.Add(newSummary);
+            return list.ToArray();
+        }
     }
+
 }
+

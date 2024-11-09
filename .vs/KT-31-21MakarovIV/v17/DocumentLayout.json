@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programm\\VS\\PP\\KT-31-21MakarovIV\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\programm\\VS\\gitwp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|d:\\programm\\vs\\gitwp\\kt-31-21makaroviv\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|solutionrelative:kt-31-21makaroviv\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|d:\\programm\\vs\\gitwp\\kt-31-21makaroviv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|solutionrelative:kt-31-21makaroviv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|d:\\programm\\vs\\gitwp\\kt-31-21makaroviv\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A80D40B0-BDD9-4011-873F-D2E2FA35F9F2}|KT-31-21MakarovIV\\KT-31-21MakarovIV.csproj|solutionrelative:kt-31-21makaroviv\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "KT-31-21MakarovIV\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "KT-31-21MakarovIV\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:54:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\Program.cs",
+              "RelativeDocumentMoniker": "KT-31-21MakarovIV\\Program.cs",
+              "ToolTip": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\Program.cs",
+              "RelativeToolTip": "KT-31-21MakarovIV\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:47:20.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KT-31-21MakarovIV\\appsettings.Development.json",
+              "ToolTip": "D:\\programm\\VS\\gitwp\\KT-31-21MakarovIV\\appsettings.Development.json",
+              "RelativeToolTip": "KT-31-21MakarovIV\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T08:45:14.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
