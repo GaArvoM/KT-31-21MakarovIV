@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KT-31-21MakarovIV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb74c7b68730b310515cfa6c4e806613ad57dbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d8c35d0e9af168c8b96154454fc7fef23d3e6b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KT-31-21MakarovIV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KT-31-21MakarovIV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
